@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # url: www.huqingsong.cn #绑定域名
 url: https://hqsspace.gitee.io/blog #绑定域名
-root: /  #默认根路径，指向实际的source
+root: .  #默认根路径，指向实际的source
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
