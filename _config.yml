@@ -106,5 +106,5 @@ theme: next-eight
 deploy:
   type: git
   repo: 
-    gitee: https://hqsspace.gitee.io/blog
+    gitee: https://gitee.com/hqsspace/blog.git
   branch: dev
