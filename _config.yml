@@ -104,6 +104,7 @@ theme: next-eight
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: https://hqsspace.gitee.io/blog
+  type: git
+  repo: 
+    gitee: https://hqsspace.gitee.io/blog
   branch: dev
