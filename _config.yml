@@ -5,10 +5,10 @@
 # Site
 title: 青
 subtitle: ''
-description: '老胡同志的笔记本'
+description: '某人的笔记本'
 keywords: '个人空间、知识记录'
-author: 胡青松
-language: zh-Hans
+author: hqs
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-eight
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
