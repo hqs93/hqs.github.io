@@ -5,7 +5,7 @@
 # Site
 title: 青
 subtitle: ''
-description: '某人的笔记本'
+description: '笔记本'
 keywords: '个人空间、知识记录'
 author: hqs
 language: zh-CN
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-eight
+theme: next8
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
